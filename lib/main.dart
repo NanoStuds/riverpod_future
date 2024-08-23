@@ -6,9 +6,6 @@ void main() {
   runApp(const ProviderScope(child: MyApp()));
 }
 
-// 全体のコード理解
-// 94 riverpod generator
-
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
